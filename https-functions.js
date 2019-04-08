@@ -1,7 +1,7 @@
 var https = require('https');
 var array_of_chunks =[];
 
-module.exports.printHTML = function printHTML(html) {
+module.exports.printHTML = function (html) {
   console.log(html);
 }
 
